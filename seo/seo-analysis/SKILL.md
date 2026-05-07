@@ -1,6 +1,6 @@
 ---
 name: seo-analysis
-argument-hint: "<URL to audit, e.g. https://example.com>"
+argument-hint: "<URL to audit, e.g. https://musemind.agency/>"
 description: >
   Full SEO audit: Google Search Console data + URL Inspection API + PageSpeed
   Insights API + technical crawl + keyword research + metadata audit + schema
